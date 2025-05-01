@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/andr-ch/Social-proof-section.git](https://github.com/andr-ch/Social-proof-section.git)
-- Live Site URL: [https://andr-ch.github.io/Social-proof-section/](https://andr-ch.github.io/Social-proof-section/)
+- Solution URL: [https://github.com/npc-makinika/Social-proof-section.git](https://github.com/npc-makinika/Social-proof-section.git)
+- Live Site URL: [https://npc-makinika.github.io/Social-proof-section/](https://npc-makinika.github.io/Social-proof-section/)
 
 
 ## My process
